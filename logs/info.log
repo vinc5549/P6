@@ -1,0 +1,283 @@
+{"level":"info","message":"init","timestamp":"2022-06-27 01:41:27 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-06-27 01:41:27 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-06-27 02:13:00 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-06-27 02:13:00 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-06-27 04:58:23 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-06-27 04:58:24 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-06-27 05:06:25 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-06-27 05:06:25 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-06-27 05:07:59 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-06-27 05:07:59 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-06-27 05:08:27 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-06-27 05:08:27 PM +0000"}
+{"level":"info","timestamp":"2022-06-27 05:08:49 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-06-27 05:09:49 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-06-27 05:09:49 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-06-27 05:11:51 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-06-27 05:11:51 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-06-27 05:12:57 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-06-27 05:12:57 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-06-27 05:13:49 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-06-27 05:13:49 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-06-27 05:15:04 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-06-27 05:15:04 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-06-27 05:17:15 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-06-27 05:17:15 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-06-27 05:17:31 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-06-27 05:17:32 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:07:44 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:07:44 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:10:54 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:10:54 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:26:38 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:26:38 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:27:35 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:27:35 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:29:49 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:30:03 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:30:28 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:30:28 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:33:10 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:33:10 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:33:42 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:33:42 PM +0000"}
+{"level":"info","message":"createThing","timestamp":"2022-07-14 03:33:44 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:34:24 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:34:24 PM +0000"}
+{"level":"info","message":"createThing","timestamp":"2022-07-14 03:34:27 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:35:12 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:35:12 PM +0000"}
+{"level":"info","message":"createThing","timestamp":"2022-07-14 03:35:14 PM +0000"}
+{"level":"info","message":"JSON.parse(req.body)= [object Object]","timestamp":"2022-07-14 03:35:14 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:35:40 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:35:40 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:35:47 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:35:47 PM +0000"}
+{"level":"info","message":"createThing","timestamp":"2022-07-14 03:35:51 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:36:06 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:36:06 PM +0000"}
+{"level":"info","message":"createThing","timestamp":"2022-07-14 03:36:08 PM +0000"}
+{"level":"info","message":"JSON.parse(req.body)= [object Object]","timestamp":"2022-07-14 03:36:08 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:37:02 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:37:02 PM +0000"}
+{"level":"info","message":"createThing","timestamp":"2022-07-14 03:37:05 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:37:14 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:37:15 PM +0000"}
+{"level":"info","message":"createThing","timestamp":"2022-07-14 03:37:17 PM +0000"}
+{"level":"info","message":"JSON.stringify(req.body)= {\"title\":\"test\",\"description\":\"test\",\"price\":200,\"imageUrl\":\"https://img.20mn.fr/Wan-5XhPSm2fw4Y9HFSJnCk/640x410_45e-vague-chaleur-touche-mois-juillet-20221-france\",\"_id\":\"1657813037829\",\"userId\":\"62d036a41488a7b5791e3f01\"}","timestamp":"2022-07-14 03:37:17 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:38:02 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:38:03 PM +0000"}
+{"level":"info","message":"createThing","timestamp":"2022-07-14 03:38:09 PM +0000"}
+{"level":"info","message":"JSON.stringify(req.body)= {\"title\":\"test\",\"description\":\"test\",\"price\":200,\"imageUrl\":\"https://img.20mn.fr/Wan-5XhPSm2fw4Y9HFSJnCk/640x410_45e-vague-chaleur-touche-mois-juillet-20221-france\",\"_id\":\"1657813089723\",\"userId\":\"62d036a41488a7b5791e3f01\"}","timestamp":"2022-07-14 03:38:09 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:38:37 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:38:37 PM +0000"}
+{"level":"info","message":"createThing","timestamp":"2022-07-14 03:38:40 PM +0000"}
+{"level":"info","message":"JSON.stringify(req.body)= undefined","timestamp":"2022-07-14 03:38:40 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:39:57 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:39:57 PM +0000"}
+{"level":"info","message":"createThing","timestamp":"2022-07-14 03:40:00 PM +0000"}
+{"level":"info","message":"JSON.stringify(req.body)= undefined","timestamp":"2022-07-14 03:40:00 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:41:10 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:41:10 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:41:10 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:41:11 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:41:23 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:41:23 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:41:57 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:41:57 PM +0000"}
+{"level":"info","message":"createThing","timestamp":"2022-07-14 03:42:01 PM +0000"}
+{"level":"info","message":"JSON.stringify(req.body)= undefined","timestamp":"2022-07-14 03:42:01 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:42:31 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:42:31 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:42:35 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:42:36 PM +0000"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-14 03:42:39 PM +0000"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-14 03:42:39 PM +0000"}
+{"level":"info","message":"createThing","timestamp":"2022-07-14 03:42:39 PM +0000"}
+{"level":"info","message":"JSON.stringify(req.body)= {\"userId\":\"62d036a41488a7b5791e3f01\"}","timestamp":"2022-07-14 03:42:39 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:43:22 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:43:22 PM +0000"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-14 03:43:24 PM +0000"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-14 03:43:24 PM +0000"}
+{"level":"info","message":"createThing","timestamp":"2022-07-14 03:43:24 PM +0000"}
+{"level":"info","message":"JSON.stringify(req.auth)= {\"userId\":\"62d036a41488a7b5791e3f01\"}","timestamp":"2022-07-14 03:43:24 PM +0000"}
+{"level":"info","message":"JSON.stringify(req.body)= {\"title\":\"test\",\"description\":\"test\",\"price\":200,\"imageUrl\":\"https://img.20mn.fr/Wan-5XhPSm2fw4Y9HFSJnCk/640x410_45e-vague-chaleur-touche-mois-juillet-20221-france\",\"_id\":\"1657813404880\",\"userId\":\"62d036a41488a7b5791e3f01\"}","timestamp":"2022-07-14 03:43:24 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:43:45 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:43:45 PM +0000"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-14 03:44:17 PM +0000"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-14 03:44:17 PM +0000"}
+{"level":"info","message":"createThing","timestamp":"2022-07-14 03:44:17 PM +0000"}
+{"level":"info","message":"JSON.stringify(req.auth)= {\"userId\":\"62d036a41488a7b5791e3f01\"}","timestamp":"2022-07-14 03:44:17 PM +0000"}
+{"level":"info","message":"JSON.stringify(req.body)= {\"title\":\"test\",\"description\":\"test\",\"price\":200,\"imageUrl\":\"https://img.20mn.fr/Wan-5XhPSm2fw4Y9HFSJnCk/640x410_45e-vague-chaleur-touche-mois-juillet-20221-france\",\"_id\":\"1657813456913\",\"userId\":\"62d036a41488a7b5791e3f01\"}","timestamp":"2022-07-14 03:44:17 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:45:51 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:45:51 PM +0000"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-14 03:45:54 PM +0000"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-14 03:45:54 PM +0000"}
+{"level":"info","message":"createThing","timestamp":"2022-07-14 03:45:54 PM +0000"}
+{"level":"info","message":"JSON.stringify(req.auth)= {\"userId\":\"62d036a41488a7b5791e3f01\"}","timestamp":"2022-07-14 03:45:54 PM +0000"}
+{"level":"info","message":"JSON.stringify(req.body)= {\"title\":\"test\",\"description\":\"test\",\"price\":200,\"imageUrl\":\"https://img.20mn.fr/Wan-5XhPSm2fw4Y9HFSJnCk/640x410_45e-vague-chaleur-touche-mois-juillet-20221-france\",\"_id\":\"1657813554537\",\"userId\":\"62d036a41488a7b5791e3f01\"}","timestamp":"2022-07-14 03:45:54 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:46:22 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:46:22 PM +0000"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-14 03:46:24 PM +0000"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-14 03:46:24 PM +0000"}
+{"level":"info","message":"createThing","timestamp":"2022-07-14 03:46:24 PM +0000"}
+{"level":"info","message":"JSON.stringify(req.auth)= {\"userId\":\"62d036a41488a7b5791e3f01\"}","timestamp":"2022-07-14 03:46:24 PM +0000"}
+{"level":"info","message":"JSON.stringify(req.body)= {\"title\":\"test\",\"description\":\"test\",\"price\":200,\"imageUrl\":\"https://img.20mn.fr/Wan-5XhPSm2fw4Y9HFSJnCk/640x410_45e-vague-chaleur-touche-mois-juillet-20221-france\",\"_id\":\"1657813584680\",\"userId\":\"62d036a41488a7b5791e3f01\"}","timestamp":"2022-07-14 03:46:24 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:46:30 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:46:30 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:48:24 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:48:24 PM +0000"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-14 03:48:27 PM +0000"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-14 03:48:27 PM +0000"}
+{"level":"info","message":"createThing","timestamp":"2022-07-14 03:48:27 PM +0000"}
+{"level":"info","message":"JSON.stringify(req.auth)= {\"userId\":\"62d036a41488a7b5791e3f01\"}","timestamp":"2022-07-14 03:48:27 PM +0000"}
+{"level":"info","message":"JSON.stringify(req.body)= {\"title\":\"test\",\"description\":\"test\",\"price\":200,\"imageUrl\":\"https://img.20mn.fr/Wan-5XhPSm2fw4Y9HFSJnCk/640x410_45e-vague-chaleur-touche-mois-juillet-20221-france\",\"_id\":\"1657813707577\",\"userId\":\"62d036a41488a7b5791e3f01\"}","timestamp":"2022-07-14 03:48:27 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:48:31 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:48:31 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:49:04 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:49:04 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:49:06 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:49:06 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:50:29 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:50:29 PM +0000"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-14 03:50:32 PM +0000"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-14 03:50:32 PM +0000"}
+{"level":"info","message":"createThing","timestamp":"2022-07-14 03:50:32 PM +0000"}
+{"level":"info","message":"JSON.stringify(req.auth)= {\"userId\":\"62d036a41488a7b5791e3f01\"}","timestamp":"2022-07-14 03:50:32 PM +0000"}
+{"level":"info","message":"JSON.stringify(req.body)= {\"title\":\"test\",\"description\":\"test\",\"price\":200,\"imageUrl\":\"https://img.20mn.fr/Wan-5XhPSm2fw4Y9HFSJnCk/640x410_45e-vague-chaleur-touche-mois-juillet-20221-france\",\"_id\":\"1657813832433\",\"userId\":\"62d036a41488a7b5791e3f01\"}","timestamp":"2022-07-14 03:50:32 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:52:06 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:52:06 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:52:24 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:52:24 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:52:28 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:52:29 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:52:39 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:52:39 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:52:55 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:52:55 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:52:56 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:52:56 PM +0000"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-14 03:52:59 PM +0000"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-14 03:52:59 PM +0000"}
+{"level":"info","message":"createThing","timestamp":"2022-07-14 03:52:59 PM +0000"}
+{"level":"info","message":"JSON.stringify(req.auth)= {\"userId\":\"62d036a41488a7b5791e3f01\"}","timestamp":"2022-07-14 03:52:59 PM +0000"}
+{"level":"info","message":"JSON.stringify(req.body)= {\"title\":\"test\",\"description\":\"test\",\"price\":200,\"imageUrl\":\"https://img.20mn.fr/Wan-5XhPSm2fw4Y9HFSJnCk/640x410_45e-vague-chaleur-touche-mois-juillet-20221-france\",\"_id\":\"1657813978928\",\"userId\":\"62d036a41488a7b5791e3f01\"}","timestamp":"2022-07-14 03:52:59 PM +0000"}
+{"level":"info","message":"JSON.stringify(req.file)= undefined","timestamp":"2022-07-14 03:52:59 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:53:20 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:53:20 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:54:45 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:54:45 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:55:12 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:55:13 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:55:13 PM +0000"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-14 03:55:19 PM +0000"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-14 03:55:19 PM +0000"}
+{"level":"info","message":"createThing","timestamp":"2022-07-14 03:55:19 PM +0000"}
+{"level":"info","message":"JSON.stringify(req.auth)= {\"userId\":\"62d036a41488a7b5791e3f01\"}","timestamp":"2022-07-14 03:55:19 PM +0000"}
+{"level":"info","message":"JSON.stringify(req.body)= {\"title\":\"test\",\"description\":\"test\",\"price\":200,\"imageUrl\":\"https://img.20mn.fr/Wan-5XhPSm2fw4Y9HFSJnCk/640x410_45e-vague-chaleur-touche-mois-juillet-20221-france\",\"_id\":\"1657814119561\",\"userId\":\"62d036a41488a7b5791e3f01\"}","timestamp":"2022-07-14 03:55:19 PM +0000"}
+{"level":"error","message":"createThing ValidationError: _id: Cast to ObjectId failed for value \"1657814119561\" (type string) at path \"_id\" because of \"BSONTypeError\"","timestamp":"2022-07-14 03:55:19 PM +0000"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-14 03:56:46 PM +0000"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-14 03:56:46 PM +0000"}
+{"level":"info","message":"createThing","timestamp":"2022-07-14 03:56:46 PM +0000"}
+{"level":"info","message":"JSON.stringify(req.auth)= {\"userId\":\"62d036a41488a7b5791e3f01\"}","timestamp":"2022-07-14 03:56:46 PM +0000"}
+{"level":"info","message":"JSON.stringify(req.body)= {\"title\":\"test\",\"description\":\"test\",\"price\":200,\"imageUrl\":\"https://img.20mn.fr/Wan-5XhPSm2fw4Y9HFSJnCk/640x410_45e-vague-chaleur-touche-mois-juillet-20221-france\",\"_id\":\"1657814206393\",\"userId\":\"62d036a41488a7b5791e3f01\"}","timestamp":"2022-07-14 03:56:46 PM +0000"}
+{"level":"error","message":"createThing ValidationError: _id: Cast to ObjectId failed for value \"1657814206393\" (type string) at path \"_id\" because of \"BSONTypeError\"","timestamp":"2022-07-14 03:56:46 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:58:14 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:58:14 PM +0000"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-14 03:58:18 PM +0000"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-14 03:58:18 PM +0000"}
+{"level":"info","message":"createThing","timestamp":"2022-07-14 03:58:18 PM +0000"}
+{"level":"info","message":"JSON.stringify(req.auth)= {\"userId\":\"62d036a41488a7b5791e3f01\"}","timestamp":"2022-07-14 03:58:18 PM +0000"}
+{"level":"info","message":"JSON.stringify(req.body)= {\"title\":\"test\",\"description\":\"test\",\"price\":200,\"imageUrl\":\"https://img.20mn.fr/Wan-5XhPSm2fw4Y9HFSJnCk/640x410_45e-vague-chaleur-touche-mois-juillet-20221-france\",\"_id\":\"1657814298913\",\"userId\":\"62d036a41488a7b5791e3f01\"}","timestamp":"2022-07-14 03:58:18 PM +0000"}
+{"level":"error","message":"createThing ValidationError: _id: Cast to ObjectId failed for value \"1657814298913\" (type string) at path \"_id\" because of \"BSONTypeError\"","timestamp":"2022-07-14 03:58:19 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-14 03:59:13 PM +0000"}
+{"level":"info","message":"test","timestamp":"2022-07-14 03:59:13 PM +0000"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-14 03:59:18 PM +0000"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-14 03:59:18 PM +0000"}
+{"level":"info","message":"createThing","timestamp":"2022-07-14 03:59:18 PM +0000"}
+{"level":"info","message":"JSON.stringify(req.auth)= {\"userId\":\"62d036a41488a7b5791e3f01\"}","timestamp":"2022-07-14 03:59:18 PM +0000"}
+{"level":"info","message":"JSON.stringify(req.body)= {\"title\":\"test\",\"description\":\"test\",\"price\":200,\"imageUrl\":\"https://img.20mn.fr/Wan-5XhPSm2fw4Y9HFSJnCk/640x410_45e-vague-chaleur-touche-mois-juillet-20221-france\",\"_id\":\"1657814358231\",\"userId\":\"62d036a41488a7b5791e3f01\"}","timestamp":"2022-07-14 03:59:18 PM +0000"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-14 03:59:18 PM +0000"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-14 03:59:18 PM +0000"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-14 03:59:27 PM +0000"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-14 03:59:27 PM +0000"}
+{"level":"info","message":"init","timestamp":"2022-07-16 02:16:52 PM +0200"}
+{"level":"info","message":"test","timestamp":"2022-07-16 02:16:52 PM +0200"}
+{"level":"info","message":"init","timestamp":"2022-07-16 02:18:05 PM +0200"}
+{"level":"info","message":"test","timestamp":"2022-07-16 02:18:05 PM +0200"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-16 02:18:21 PM +0200"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-16 02:18:31 PM +0200"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-16 02:18:31 PM +0200"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-16 02:18:41 PM +0200"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-16 02:18:41 PM +0200"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-16 02:18:42 PM +0200"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-16 02:18:42 PM +0200"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-16 02:19:35 PM +0200"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-16 02:19:35 PM +0200"}
+{"level":"info","message":"createThing","timestamp":"2022-07-16 02:19:35 PM +0200"}
+{"level":"info","message":"JSON.stringify(req.auth)= {\"userId\":\"62d2ac961db1460afcf492ec\"}","timestamp":"2022-07-16 02:19:35 PM +0200"}
+{"level":"info","message":"JSON.stringify(req.body)= {\"title\":\"Jeux\",\"description\":\"Exit the Gungeon\",\"price\":1400,\"imageUrl\":\"https://image.api.playstation.com/vulcan/ap/rnd/202011/0222/Mp8jYUcCeEoOV2hTDHuicRwl.png\",\"_id\":\"1657973975922\",\"userId\":\"62d2ac961db1460afcf492ec\"}","timestamp":"2022-07-16 02:19:35 PM +0200"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-16 02:19:36 PM +0200"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-16 02:19:36 PM +0200"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-16 02:19:38 PM +0200"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-16 02:19:38 PM +0200"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-16 02:19:40 PM +0200"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-16 02:19:40 PM +0200"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-16 02:19:45 PM +0200"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-16 02:19:45 PM +0200"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-16 02:19:45 PM +0200"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-16 02:19:45 PM +0200"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-16 02:19:47 PM +0200"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-16 02:19:47 PM +0200"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-16 02:19:49 PM +0200"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-16 02:19:49 PM +0200"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-16 02:19:49 PM +0200"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-16 02:19:49 PM +0200"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-16 02:19:57 PM +0200"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-16 02:19:57 PM +0200"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-16 02:20:09 PM +0200"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-16 02:20:09 PM +0200"}
+{"level":"info","message":"init","timestamp":"2022-07-17 03:44:14 PM +0200"}
+{"level":"info","message":"test","timestamp":"2022-07-17 03:44:14 PM +0200"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-17 03:44:24 PM +0200"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-17 03:45:03 PM +0200"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-17 03:45:03 PM +0200"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-17 03:45:55 PM +0200"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-17 03:45:55 PM +0200"}
+{"level":"info","message":"createThing","timestamp":"2022-07-17 03:45:55 PM +0200"}
+{"level":"info","message":"JSON.stringify(req.auth)= {\"userId\":\"62d4125e2c3e776a1bb77ed5\"}","timestamp":"2022-07-17 03:45:55 PM +0200"}
+{"level":"info","message":"JSON.stringify(req.body)= {\"title\":\"parfum\",\"description\":\"Chrome Azzaro\",\"price\":8000,\"imageUrl\":\"https://www.sephora.fr/dw/image/v2/BCVW_PRD/on/demandware.static/-/Sites-masterCatalog_Sephora/default/dw60205c96/images/hi-res/SKU/SKU_1/31196_swatch.JPG?sw=585&sh=585&sm=fit\",\"_id\":\"1658065555424\",\"userId\":\"62d4125e2c3e776a1bb77ed5\"}","timestamp":"2022-07-17 03:45:55 PM +0200"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-17 03:45:55 PM +0200"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-17 03:45:55 PM +0200"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-17 03:45:59 PM +0200"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-17 03:45:59 PM +0200"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-17 03:46:01 PM +0200"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-17 03:46:01 PM +0200"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-17 03:46:06 PM +0200"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-17 03:46:06 PM +0200"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-17 03:46:06 PM +0200"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-17 03:46:06 PM +0200"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-17 03:46:08 PM +0200"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-17 03:46:08 PM +0200"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-17 03:46:09 PM +0200"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-17 03:46:09 PM +0200"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-17 03:46:10 PM +0200"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-17 03:46:10 PM +0200"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-17 03:46:21 PM +0200"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-17 03:46:21 PM +0200"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-17 03:46:31 PM +0200"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-17 03:46:31 PM +0200"}
+{"level":"info","message":"inside auth","timestamp":"2022-07-17 03:46:50 PM +0200"}
+{"level":"info","message":"valid user id","timestamp":"2022-07-17 03:46:50 PM +0200"}
+{"level":"info","message":"init","timestamp":"2022-07-17 04:12:56 PM +0200"}
+{"level":"info","message":"test","timestamp":"2022-07-17 04:12:56 PM +0200"}
+{"level":"info","message":"init","timestamp":"2022-07-17 04:19:21 PM +0200"}
+{"level":"info","message":"test","timestamp":"2022-07-17 04:19:21 PM +0200"}
+{"level":"info","message":"init","timestamp":"2022-07-18 03:26:41 PM +0200"}
+{"level":"info","message":"test","timestamp":"2022-07-18 03:26:41 PM +0200"}
+{"level":"info","message":"init","timestamp":"2022-07-18 04:03:54 PM +0200"}
+{"level":"info","message":"init","timestamp":"2022-07-18 04:04:03 PM +0200"}
+{"level":"info","message":"init","timestamp":"2022-07-18 04:16:04 PM +0200"}
+{"level":"info","message":"test","timestamp":"2022-07-18 04:16:05 PM +0200"}
+{"level":"info","message":"init","timestamp":"2022-07-18 05:00:07 PM +0200"}
+{"level":"info","message":"test","timestamp":"2022-07-18 05:00:07 PM +0200"}
