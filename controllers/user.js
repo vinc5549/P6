@@ -1,9 +1,16 @@
 const bcrypt = require('bcrypt');
 const jwt = require('jsonwebtoken');
+require('dotenv').config();
 const User = require('../models/user');
 
+// INSCRIPTION USER
+
 exports.signup = (req, res, next) => {
-    bcrypt.hash(req.body.password, 10)
+  try {
+    if (req.body.password === undefined) {
+        throw 'Mot de passe non défini';
+    }
+  bcrypt.hash(req.body.password, 10)
         .then(hash => {
             const user = new User({
                 email: req.body.email,
@@ -13,8 +20,13 @@ exports.signup = (req, res, next) => {
                 .then(() => res.status(201).json({ message: 'Utilisateur créé !'}))
                 .catch(error => res.status(400).json({ error }));
         })
-        .catch(error => res.status(500).json({ error }));
+      }
+      catch(error) {
+          res.status(400).json({ message: error });
+      }
 };
+
+// LOGIN USER
 
 exports.login = (req, res, next) => {
     User.findOne({ email: req.body.email })
@@ -31,6 +43,7 @@ exports.login = (req, res, next) => {
               userId: user._id,
               token: jwt.sign(
                 { userId: user._id },
+                //process.env.RANDOM_TOKEN_SECRET_KEY,
                 'RANDOM_TOKEN_SECRET',
                 { expiresIn: '24h' }
               )
